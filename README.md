@@ -1,7 +1,7 @@
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lordfahdan/lordfahdan/lord/GIthub%20Banner.gif">
- <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lordfahdan/lordfahdan/lord/GIthub%20Banner.gif">
- <img alt="my-professional-banner" src="https://raw.githubusercontent.com/lordfahdan/lordfahdan/lord/GIthub%20Banner.gif">
+ <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lordfahdan/lordfahdan/lord/lord-banner.gif">
+ <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lordfahdan/lordfahdan/lord/lord-banner.gif">
+ <img alt="my-professional-banner" src="https://raw.githubusercontent.com/lordfahdan/lordfahdan/lord/lord-banner.gif">
 </picture>
 
 <br />
