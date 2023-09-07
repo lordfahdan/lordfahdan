@@ -9,6 +9,6 @@
 </p>
 
 <div align="center"><a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=lordfahdan&label=Profile%20Views&color=1&icon=0&pretty=false" />
+  <img src="https://visitcount.itsvg.in/api?id=lordfahdan&label=Profile%20Views&color=12&icon=0&pretty=false" />
 </a></div>
 
