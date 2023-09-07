@@ -26,7 +26,12 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/lordfahdan?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
-### 👨‍💻  Languages and Tools
+## Hello <i>strangers</i> 😁! Welcome here <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+### This is me
+- I am Fahdan Khairi, learn-by-doing programmer who loves free courses 📚
+- <i>Other descriptions are in development...</i> 🛠️
+
+## 👨‍💻  Languages and Tools
 <p align="center">
  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a> 
  <a href="https://www.javascript.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
@@ -51,7 +56,7 @@
  <a href="https://webpack.js.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="webpack" width="40" height="40"/></a> 
 </p>
 
-### 🔗  Connect with me
+## 🔗  Connect with me
 <p align="left" >
    <a href="https://www.linkedin.com/fahdan-khairi"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/OQUXwNp.jpeg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
