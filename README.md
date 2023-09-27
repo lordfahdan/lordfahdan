@@ -12,19 +12,6 @@
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=900&duration=4000&size=25&pause=1000&color=03e7e3&center=true&vCenter=true&lines=I'm+a+Frontend+Engineer;3%2B+years+of+professional+experience" alt="Typing SVG" /></a>
 </p>
 
-<!-- Visitor Count -->
-<div align="center">
- <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=lordfahdan&label=Visitors&color=3&icon=0&pretty=true" /></a>
-</div>
-
-<!-- Social badges section -->
-<p align="center">
-  <a href="https://github.com/lordfahdan?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/lordfahdan?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/lordfahdan?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/lordfahdan?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-</p>
-
 ## Hello <i>strangers</i> 😁! Welcome here <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 ### This is me
 - I am Fahdan Khairi, learn-by-doing programmer who loves free courses 📚
